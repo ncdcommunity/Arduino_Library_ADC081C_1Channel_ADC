@@ -1,5 +1,5 @@
 
-[![ADC081C](ADC018C_I2CADC.png)](https://store.ncd.io/product/adc081c-8-bit-1-channel-high-speed-analog-to-digital-converter-i2c-mini-module/).
+[![ADC081C](ADC081C_I2CADC.png)](https://store.ncd.io/product/adc081c-8-bit-1-channel-high-speed-analog-to-digital-converter-i2c-mini-module/).
 
 # ADC081C
 ADC081C is a 8-Bit 1-Channel High-Speed Analog to Digital Converter.
@@ -7,7 +7,7 @@ This Device is available from www.ncd.io [SKU: ADC081C_I2CS]
 (https://store.ncd.io/product/adc081c-8-bit-1-channel-high-speed-analog-to-digital-converter-i2c-mini-module/)
 This Sample code can be used with Arduino.
 
-Hardware needed to interface Hall effect sensor with Arduino
+Hardware needed to interface ADC081C 8-Bit 1-Channel High-Speed ADC with Arduino
 1. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-nano/">Arduino Nano</a>
 2. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-micro-with-i2c-expansion-port/">Arduino Micro</a>
 3. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-uno/">Arduino uno</a>
